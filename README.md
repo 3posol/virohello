@@ -2,7 +2,7 @@
 
 ViroHello is a reversi game implementation using augmented reality thanks to [Viro React](https://viromedia.com/viroreact/) platform.
 
-[![virothello]](https://vimeo.com/646952573)
+[![virothello](./src/assets/video-poster.png)](https://vimeo.com/646952573)
 
 ## Installation
 
